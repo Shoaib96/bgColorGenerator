@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, #00ff00, #ff0000);
+}
+
+h1,h3 {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
